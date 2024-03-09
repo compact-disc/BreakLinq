@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\break-linq\BreakLinq.csproj" />
+    <ProjectReference Include="..\BreakLinq\BreakLinq.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakLinq", "break-linq\BreakLinq.csproj", "{AF8B8459-8C1C-4EF0-9E4E-1E7A8CFEF301}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakLinq", "BreakLinq\BreakLinq.csproj", "{AF8B8459-8C1C-4EF0-9E4E-1E7A8CFEF301}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakLinq.UnitTests", "break-linq-tests\BreakLinq.UnitTests.csproj", "{7114639D-E60F-476D-9E35-199F09F53472}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakLinq.UnitTests", "BreakLinq.UnitTests\BreakLinq.UnitTests.csproj", "{7114639D-E60F-476D-9E35-199F09F53472}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
