@@ -1,0 +1,14 @@
+C:\Users\chris\git\break-linq\break-linq\bin\Debug\net8.0\break-linq.exe
+C:\Users\chris\git\break-linq\break-linq\bin\Debug\net8.0\break-linq.deps.json
+C:\Users\chris\git\break-linq\break-linq\bin\Debug\net8.0\break-linq.runtimeconfig.json
+C:\Users\chris\git\break-linq\break-linq\bin\Debug\net8.0\break-linq.dll
+C:\Users\chris\git\break-linq\break-linq\bin\Debug\net8.0\break-linq.pdb
+C:\Users\chris\git\break-linq\break-linq\obj\Debug\net8.0\break-linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\git\break-linq\break-linq\obj\Debug\net8.0\break-linq.AssemblyInfoInputs.cache
+C:\Users\chris\git\break-linq\break-linq\obj\Debug\net8.0\break-linq.AssemblyInfo.cs
+C:\Users\chris\git\break-linq\break-linq\obj\Debug\net8.0\break-linq.csproj.CoreCompileInputs.cache
+C:\Users\chris\git\break-linq\break-linq\obj\Debug\net8.0\break-linq.dll
+C:\Users\chris\git\break-linq\break-linq\obj\Debug\net8.0\refint\break-linq.dll
+C:\Users\chris\git\break-linq\break-linq\obj\Debug\net8.0\break-linq.pdb
+C:\Users\chris\git\break-linq\break-linq\obj\Debug\net8.0\break-linq.genruntimeconfig.cache
+C:\Users\chris\git\break-linq\break-linq\obj\Debug\net8.0\ref\break-linq.dll

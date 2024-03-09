@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\git\\break-linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7114639D-E60F-476D-9E35-199F09F53472}|break-linq-tests\\BreakLinq.UnitTests.csproj|c:\\users\\chris\\git\\break-linq\\break-linq-tests\\breaklinqtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7114639D-E60F-476D-9E35-199F09F53472}|break-linq-tests\\BreakLinq.UnitTests.csproj|solutionrelative:break-linq-tests\\breaklinqtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7114639D-E60F-476D-9E35-199F09F53472}|break-linq-tests\\BreakLinq.UnitTests.csproj|c:\\users\\chris\\git\\break-linq\\break-linq-tests\\breaklinqtestsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7114639D-E60F-476D-9E35-199F09F53472}|break-linq-tests\\BreakLinq.UnitTests.csproj|solutionrelative:break-linq-tests\\breaklinqtestsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8B8459-8C1C-4EF0-9E4E-1E7A8CFEF301}|break-linq\\BreakLinq.csproj|c:\\users\\chris\\git\\break-linq\\break-linq\\breaklinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8B8459-8C1C-4EF0-9E4E-1E7A8CFEF301}|break-linq\\BreakLinq.csproj|solutionrelative:break-linq\\breaklinq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8B8459-8C1C-4EF0-9E4E-1E7A8CFEF301}|break-linq\\BreakLinq.csproj|c:\\users\\chris\\git\\break-linq\\break-linq\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8B8459-8C1C-4EF0-9E4E-1E7A8CFEF301}|break-linq\\BreakLinq.csproj|solutionrelative:break-linq\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF8B8459-8C1C-4EF0-9E4E-1E7A8CFEF301}|break-linq\\BreakLinq.csproj|c:\\users\\chris\\git\\break-linq\\break-linq\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF8B8459-8C1C-4EF0-9E4E-1E7A8CFEF301}|break-linq\\BreakLinq.csproj|solutionrelative:break-linq\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BreakLinqTests.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\git\\break-linq\\break-linq-tests\\BreakLinqTests.cs",
+              "RelativeDocumentMoniker": "break-linq-tests\\BreakLinqTests.cs",
+              "ToolTip": "C:\\Users\\chris\\git\\break-linq\\break-linq-tests\\BreakLinqTests.cs",
+              "RelativeToolTip": "break-linq-tests\\BreakLinqTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T05:03:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\git\\break-linq\\break-linq\\Purchase.cs",
+              "RelativeDocumentMoniker": "break-linq\\Purchase.cs",
+              "ToolTip": "C:\\Users\\chris\\git\\break-linq\\break-linq\\Purchase.cs",
+              "RelativeToolTip": "break-linq\\Purchase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T04:57:00.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\git\\break-linq\\break-linq\\Customer.cs",
+              "RelativeDocumentMoniker": "break-linq\\Customer.cs",
+              "ToolTip": "C:\\Users\\chris\\git\\break-linq\\break-linq\\Customer.cs",
+              "RelativeToolTip": "break-linq\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T04:56:59.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BreakLinq.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\git\\break-linq\\break-linq\\BreakLinq.cs",
+              "RelativeDocumentMoniker": "break-linq\\BreakLinq.cs",
+              "ToolTip": "C:\\Users\\chris\\git\\break-linq\\break-linq\\BreakLinq.cs",
+              "RelativeToolTip": "break-linq\\BreakLinq.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T04:51:42.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BreakLinqTestsData.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\git\\break-linq\\break-linq-tests\\BreakLinqTestsData.cs",
+              "RelativeDocumentMoniker": "break-linq-tests\\BreakLinqTestsData.cs",
+              "ToolTip": "C:\\Users\\chris\\git\\break-linq\\break-linq-tests\\BreakLinqTestsData.cs",
+              "RelativeToolTip": "break-linq-tests\\BreakLinqTestsData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T17:58:18.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
